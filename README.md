@@ -1,1 +1,1 @@
-# Tensorflow_Series_Assignments
+# Resolution of exercises : Tensorflow_Series_Assignments
